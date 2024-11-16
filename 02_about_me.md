@@ -41,8 +41,6 @@ Please contact me via email:
 <a href="mailto:{{ site.email }}">{{ site.email }}</a> 
         </code>
         </pre>
-                </tbody>
-            </table> 
         </div>
 
 	</div>
