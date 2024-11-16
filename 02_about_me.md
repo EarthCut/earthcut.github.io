@@ -17,6 +17,7 @@ nav-menu: true
 		</header>
 <h3>Earth Cut Film</h3>
 		The Earth Cut Filmproduktion was founded in 2021 with the vision of producing documentaries that focus on nature and the environmental topics in relation to our society. The starting point was the documentary Strange Neighbors, which was funded by the Film und Medienstiftung and will soon be released in cinemas. 
+		<br> <br>
 		
 	 <div class="row">
 	<div class="5u 12u$(small)">
