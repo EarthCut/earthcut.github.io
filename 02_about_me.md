@@ -19,7 +19,7 @@ nav-menu: true
 
 
 <div class="row">
-	<p><span class="image left"><img src="{% link assets/images/portrait.jpg %}" alt="" /></span>
+	<p><span class="image center"><img src="{% link assets/images/portrait.jpg %}" alt="" /></span>
 	<div class="5u 12u$(small)">
 		<h3>Mi Steinbach</h3>
 		Mi Steinbach, who grew up in Aachen, lives in Cologne since 2007. After her vocational training as a media designer for image and sound, she worked for several years as a freelance camerawoman and camera/lighting assistant and was employed as a camera technician and assistant to the branch manager at Arri Rental Cologne.  <br> <br>
