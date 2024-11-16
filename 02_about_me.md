@@ -31,8 +31,5 @@ Please contact me via email:
 Mi Steinbach, who grew up in Aachen, lives in Cologne since 2007. After her vocational training as a media designer for image and sound, she worked for several years as a freelance camerawoman and camera/lighting assistant and was employed as a camera technician and assistant to the branch manager at Arri Rental Cologne.  <br> <br>
 
 In addition to her subsequent studies in media and phototechnology and a master's degree in electrical engineering (optical technologies), she worked on independent films and realized numerous short films of her own that were screened at international festivals. As a freelance cinematographer she works on documentaries, sports broadcasts or news reports.</p>
-  
-
-
 	</div>
-</div>
+
