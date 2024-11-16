@@ -26,7 +26,7 @@ I first got to know the island of Schwarztonnensand four years ago. During a vis
     
     
 	<div class="6u 12u$(small)">
-	    <span<code> The project is currently in the financing phase. If you would like to know more, please contact me.</code></span>
+	    <code> The project is currently in the financing phase. If you would like to know more, please contact me.</code>
             <span class="image fit"><img src="{% link assets/images/sts_large.jpg %}" alt="" /></span>
             <span class="image fit"><img src="{% link assets/images/containership.jpg %}" alt="" /></span>
 	     </div>
