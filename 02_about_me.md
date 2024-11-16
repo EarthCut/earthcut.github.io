@@ -23,8 +23,8 @@ nav-menu: true
 	<div class="5u 12u$(small)">
 		<h3>Founder Mi Steinbach</h3>
 		<p><span class="image center"><img src="{% link assets/images/portrait.jpg %}" width="250" height="250" alt="" /></span>
-
-		Mi Steinbach, who grew up in Aachen, lives in Cologne since 2007. After her vocational training as a media designer for image and sound, she worked for several years as a freelance camerawoman and camera/lighting assistant and was employed as a camera technician and assistant to the branch manager at Arri Rental Cologne.  <br> <br>
+<br>
+Mi Steinbach, who grew up in Aachen, lives in Cologne since 2007. After her vocational training as a media designer for image and sound, she worked for several years as a freelance camerawoman and camera/lighting assistant and was employed as a camera technician and assistant to the branch manager at Arri Rental Cologne.  <br> <br>
 
         In addition to her subsequent studies in media and phototechnology and a master's degree in electrical engineering (optical technologies), she worked on independent films and realized numerous short films of her own that were screened at international festivals. As a freelance cinematographer she works on documentaries, sports broadcasts or news reports.</p>
 
