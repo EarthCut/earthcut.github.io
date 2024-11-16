@@ -21,7 +21,7 @@ nav-menu: true
 	 <div class="row">
 	<div class="5u 12u$(small)">
 		<h3>Founder Mi Steinbach</h3>
-		<p><span class="image center"><img src="{% link assets/images/portrait.jpg %}" width="300" height="300" alt="" /></span>
+		<p><span class="image center"><img src="{% link assets/images/portrait.jpg %}" width="250" height="250" alt="" /></span>
 
 		Mi Steinbach, who grew up in Aachen, lives in Cologne since 2007. After her vocational training as a media designer for image and sound, she worked for several years as a freelance camerawoman and camera/lighting assistant and was employed as a camera technician and assistant to the branch manager at Arri Rental Cologne.  <br> <br>
 
