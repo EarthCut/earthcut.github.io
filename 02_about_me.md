@@ -16,11 +16,13 @@ nav-menu: true
 			<h1>About</h1>
 		</header>
 <h3>Earth Cut Film</h3>
-		The Earth Cut Filmproduktion was founded in 2021 with the vision of producing documentaries that focus on nature and the environmental topics in relation to our society. The starting point was the documentary Strange Neighbors, which was funded by the Film und Medienstiftung and will soon be released in cinemas.  <br> <br>
-	<p><span class="image center"><img src="{% link assets/images/portrait.jpg %}" width="300" height="300" alt="" /></span>
- <div class="row">
+		The Earth Cut Filmproduktion was founded in 2021 with the vision of producing documentaries that focus on nature and the environmental topics in relation to our society. The starting point was the documentary Strange Neighbors, which was funded by the Film und Medienstiftung and will soon be released in cinemas. 
+		
+	 <div class="row">
 	<div class="5u 12u$(small)">
-		<h3>Mi Steinbach</h3>
+		<h3>Founder Mi Steinbach</h3>
+		<p><span class="image center"><img src="{% link assets/images/portrait.jpg %}" width="300" height="300" alt="" /></span>
+
 		Mi Steinbach, who grew up in Aachen, lives in Cologne since 2007. After her vocational training as a media designer for image and sound, she worked for several years as a freelance camerawoman and camera/lighting assistant and was employed as a camera technician and assistant to the branch manager at Arri Rental Cologne.  <br> <br>
 
         In addition to her subsequent studies in media and phototechnology and a master's degree in electrical engineering (optical technologies), she worked on independent films and realized numerous short films of her own that were screened at international festivals. As a freelance cinematographer she works on documentaries, sports broadcasts or news reports.</p>
