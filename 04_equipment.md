@@ -33,9 +33,7 @@ nav-menu: true
                     <tr>
                         <td>Camera</td>
                         <td>Blackmagic URSA mini G2 4,6 K <br> PL and EF-Mount <br> URSA Viewfinder <br> V-Mount Batteries <br> C-Fast, SD XC </td>
-			 </tr>
-    <tr>
-			<td>Blackmagic Pocket 6 K <br> EF-Mount <br> Batteries <br> C-Fast, SD XC </td>
+		<td>Blackmagic Pocket 6 K <br> EF-Mount <br> Batteries <br> C-Fast, SD XC </td>
                     </tr>
                     <tr>
                         <td>Lenses</td>
