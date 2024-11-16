@@ -22,14 +22,9 @@ nav-menu: true
 	<!--  <div class="row"> <div class="5u 12u$(small)"> -->
 		<h3>Founder Mi Steinbach</h3>
 		<p><span class="left"><img src="{% link assets/images/portrait.jpg %}" width="250" height="250" alt="" /></span>
-  
          <pre>
         <code>
-Book me for camera works 
-or drone photography, 
-either with or without 
-my own equipment.
-
+Feel free to contact me to talk about new projects or for further details about my work.
 Please contact me via email:
 <a href="mailto:{{ site.email }}">{{ site.email }}</a> 
         </code>
