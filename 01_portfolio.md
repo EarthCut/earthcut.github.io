@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 description: As a camerawoman I work freelance for television and feature films. As a producer, together with my team, I realize entire productions.
-image: assets/images/portfolio.png
+image: assets/images/portfolio.jpg
 nav-menu: true
 ---
 
