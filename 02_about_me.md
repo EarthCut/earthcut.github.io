@@ -19,8 +19,7 @@ nav-menu: true
 		The Earth Cut Filmproduktion was founded in 2021 with the vision of producing documentaries that focus on nature and the environmental topics in relation to our society. The starting point was the documentary Strange Neighbors, which was funded by the Film und Medienstiftung and will soon be released in cinemas. 
 		<br> <br>
 		
-	 <div class="row">
-	<div class="5u 12u$(small)">
+	<!--  <div class="row"> <div class="5u 12u$(small)"> -->
 		<h3>Founder Mi Steinbach</h3>
 		<p><span class="image center"><img src="{% link assets/images/portrait.jpg %}" width="250" height="250" alt="" /></span>
 <br>
