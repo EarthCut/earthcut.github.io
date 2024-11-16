@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-description: As a camerawoman I work for films and television. As a producer, I relaize entire films with my team.
+description: As a camerawoman I work freelance for television and feature films. As a producer, together with my team, I realize entire productions.
 image: assets/images/gear.jpg
 nav-menu: true
 ---
