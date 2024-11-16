@@ -99,8 +99,7 @@ Please contact me via email:
                     <tr>
                         <td>2008-2010  </td>
                         <td><b>Vocational training in media design</b> for image and sound in Cologne, Germany</td>
-                    </tr>
--->
+                    </tr> -->
                 </tbody>
             </table>
         </div>
