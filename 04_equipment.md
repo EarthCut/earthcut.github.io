@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Equipment
-description: Kamera
+description: An overview of camera, drone and sound equipment.
 image: assets/images/gear.jpg
 nav-menu: true
 ---
@@ -31,19 +31,19 @@ nav-menu: true
                 </thead> -->
                 <tbody>
                     <tr>
-                        <td>Kamera</td>
+                        <td>Camera</td>
                         <td>Blackmagic URSA mini G2 4,6 K <br> PL und EF-Mount <br> URSA Viewfinder <br> V-Mount Akkus <br> C-Fast, SD XC </td>
                     </tr>
                     <tr>
-                        <td>Objektive</td>
+                        <td>Lenses</td>
                         <td>Canon Zoom Lens EF 24-70mm F/2.8 <br> Canon Zoom Lens EF 100-400mm F/4.5-5.6 </td>
                     </tr>
                     <tr>
-                        <td>Zubehör</td>
+                        <td>Assesories</td>
                         <td>Sachtler FSB 6 MK II <br> Schulterrig  <br> Sidehandle, Briggs, Rohre etc. </td>
                     </tr>
                     <tr>
-                        <td>Drohne</td>
+                        <td>Drone</td>
                         <td>Mavic 3 Cine (ProRes 422 HQ) </td>
                     </tr>
                     <tr>
@@ -51,7 +51,7 @@ nav-menu: true
                         <td>GoPro 7 mit Zubehör </td>
                     </tr>
                     <tr>
-                        <td>Ton</td>
+                        <td>Sound</td>
                         <td>Rode NTG-2 Richtmikrofon <br> Zoom Recorder H4n Pro <br> XLR Kabel, Mikrofonhalter etc. </td>
                     </tr>
                 </tbody>
