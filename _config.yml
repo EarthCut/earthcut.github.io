@@ -1,6 +1,6 @@
 # site settings
-title: Earth
-subtitle: Cut
+title: Earth Cut
+subtitle:
 email: info@earth-cut.de
 description: Dokumentarfilm - Natur und Gesellschaft
 # baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
