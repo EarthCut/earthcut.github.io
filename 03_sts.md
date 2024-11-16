@@ -2,7 +2,7 @@
 layout: page
 title: Schwarztonnensand
 image: assets/images/sts.jpg
-description: Ein Naturdokumentarfilm 
+description: A nature documentary about a very special piece of earth that shows us how nature conservation can succeed in the smallest of spaces and how the dedication of conservationists can achieve great things in small settings.
 nav-menu: true
 ---
 
