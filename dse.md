@@ -17,8 +17,8 @@ nav-menu: false
 <h3>Betreiberin</h3>
 
 Mi Steinbach<br>
-Rothenburger Str. 15<br>
-51103 Köln, Deutschland<br>
+Koblenzer Str. 11<br>
+50968 Köln, Deutschland<br>
 info@earth-cut.de<br><br>
 
 <h3>Datenerhebung</h3>
