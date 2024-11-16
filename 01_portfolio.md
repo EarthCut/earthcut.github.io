@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio und Equipment
-description: Kamera
+title: Portfolio
+description: As a camerawoman I work for films and television. As a producer, I relaize entire films with my team.
 image: assets/images/gear.jpg
 nav-menu: true
 ---
