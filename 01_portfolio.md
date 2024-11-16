@@ -6,6 +6,27 @@ image: assets/images/portfolio.jpg
 nav-menu: true
 ---
 
+<head>
+    <style>
+        .container {
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+        }
+        .responsive-iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+
+
 <!-- Main -->
 <div id="main" class="alt" style="background-color: #192b0fbd">
 
@@ -16,17 +37,20 @@ nav-menu: true
 			<h1>Portfolio</h1>
 		</header>
 
-<h3>Wildlife</h3>
- <iframe class="responsive-iframe" src="https://www.youtube.com/embed/q0gJbnsmHEI?si=JudJfFj3w6aR2Yx5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
- <br>
- Showreel of nature and wildlife footage shot in winter.
- <br>
-<br>
 
- 
-<h3>Schwarztonnensand Pre-Teaser</h3>
- <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Axchr4g_x0U?si=IlsOYkR48Ks2B4O_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <br>
-Teaser giving a first impression of our new project Schwarztonnensand.
- <br>
-<br>
+<center>
+	<p>
+		<h2>Wildlife</h2>
+		<p>Showreel of nature and wildlife footage shot in winter.</p>
+			<div class="container">
+				<iframe class="responsive-iframe" src="https://www.youtube.com/embed/q0gJbnsmHEI?si=JudJfFj3w6aR2Yx5"></iframe>
+			</div>
+	</p>
+	<p>
+		<h2>Schwarztonnensand Pre-Teaser</h2>
+		<p>Teaser giving a first impression of our new project Schwarztonnensand.</p>
+			<div class="container">
+				<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Axchr4g_x0U?si=IlsOYkR48Ks2B4O"></iframe>
+			</div>
+	</p>
+</center>
