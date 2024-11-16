@@ -32,7 +32,8 @@ nav-menu: true
                 <tbody>
                     <tr>
                         <td>Camera</td>
-                        <td>Blackmagic URSA mini G2 4,6 K <br> PL und EF-Mount <br> URSA Viewfinder <br> V-Mount Akkus <br> C-Fast, SD XC </td>
+                        <td>Blackmagic URSA mini G2 4,6 K <br> PL and EF-Mount <br> URSA Viewfinder <br> V-Mount Batteries <br> C-Fast, SD XC </td>
+			<td>Blackmagic Pocket 6 K <br> EF-Mount <br> Batteries <br> C-Fast, SD XC </td>
                     </tr>
                     <tr>
                         <td>Lenses</td>
@@ -40,19 +41,19 @@ nav-menu: true
                     </tr>
                     <tr>
                         <td>Assesories</td>
-                        <td>Sachtler FSB 6 MK II <br> Schulterrig  <br> Sidehandle, Briggs, Rohre etc. </td>
+                        <td>Sachtler FSB 6 MK II <br> Shoulderrig  <br> Sidehandle, Briggs, Rods etc. </td>
                     </tr>
                     <tr>
                         <td>Drone</td>
                         <td>Mavic 3 Cine (ProRes 422 HQ) </td>
                     </tr>
                     <tr>
-                        <td>Zusatzkamera</td>
-                        <td>GoPro 7 mit Zubehör </td>
+                        <td>Additional Camera</td>
+                        <td>GoPro 7 with Assesories </td>
                     </tr>
                     <tr>
                         <td>Sound</td>
-                        <td>Rode NTG-2 Richtmikrofon <br> Zoom Recorder H4n Pro <br> XLR Kabel, Mikrofonhalter etc. </td>
+                        <td>Rode NTG-2 microphone <br> Zoom Recorder H4n Pro <br> XLR cables, microphone holders etc. </td>
                     </tr>
                 </tbody>
             </table>
