@@ -13,8 +13,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>About Me</h1>
+			<h1>About</h1>
 		</header>
+<h3>Earth Cut Film</h3>
+		The Earth Cut Filmproduktion was founded in 2021 with the vision of producing documentaries that focus on nature and the environmental topics in relation to our society. The starting point was the documentary Strange Neighbors, which was funded by the Film und Medienstiftung and will soon be released in cinemas.  <br> <br>
 	<p><span class="image center"><img src="{% link assets/images/portrait.jpg %}" width="300" height="300" alt="" /></span>
  <div class="row">
 	<div class="5u 12u$(small)">
