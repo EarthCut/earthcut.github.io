@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-description: Contact
+title: About 
+description: Earth Cut was foundet by Mi Steinbach in 2021 to expand her filmmaking to documentaries that reflect her personal signature.
 image: assets/images/dop.jpg
 nav-menu: true
 ---
