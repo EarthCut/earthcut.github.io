@@ -1,8 +1,9 @@
 # site settings
 title: Earth Cut
-subtitle:
+subtitle: Film
 email: info@earth-cut.de
-description: Dokumentarfilm - Natur und Gesellschaft
+description: Documentary film - Nature and society
+The ECF stands for visually stunning documentaries and visual storytelling, from television to feature documentaries.
 # baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Earth Cut Filmproduktion c/o Mi Steinbach
