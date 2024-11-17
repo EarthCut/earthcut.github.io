@@ -27,8 +27,8 @@ I first got to know the island of Schwarztonnensand four years ago. During a vis
     
 	<div class="6u 12u$(small)">
 	    <code> The project is currently in the financing phase. If you would like to know more, please contact me.</code>
-            <span class="image fit"><img src="{% link assets/images/sts_large.jpg %}" alt="" /></span>
-            <span class="image fit"><img src="{% link assets/images/containership.jpg %}" alt="" /></span>
+            <span class="image fit"><img src="{% link assets/images/Filmplakat_StrangeNeighbors_Crop.jpg %}" alt="" /></span>
+            <span class="image fit"><img src="{% link assets/images/Filmplakat_StrangeNeighbors_Reh_Crop.jpg %}" alt="" /></span>
 	     </div>
 
     </div>
