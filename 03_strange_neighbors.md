@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Strange Neighbors
-image: assets/images/sts.jpg
+image: assets/images/Mäusebussard.jpg
 description: Poetic documentary about the tension between nature and industry that shapes our existence.
 nav-menu: true
 ---
