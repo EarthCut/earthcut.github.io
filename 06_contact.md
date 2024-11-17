@@ -1,3 +1,11 @@
+---
+layout: page
+title: Contact
+image: assets/images/Mäusebussard.jpg
+description: Find us on social media or get in contact.
+nav-menu: true
+---
+
 <head>
  /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
