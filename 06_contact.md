@@ -42,6 +42,9 @@ input[type=submit]:hover {
 } 
 </head>
 
+Instagram: https://instagram.com/earth_cut.film
+LinkedIn: https://www.linkedin.com/in/mi-steinbach-54968a254
+  
 <div class="container">
   <form action="action_page.php">
 
