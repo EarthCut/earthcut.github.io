@@ -21,6 +21,8 @@ nav-menu: true
   
 Strange Neighbos is a poetic documentary about a tiny island on the river Elbe, a dreamy quaint place in the midst of the industrial high-performance stream of globalization.
 
+The project was financed by the Film und Medienstiftung NRW. Further information will follow shortly.
+
         <br><br>
         </div>
 
