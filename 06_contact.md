@@ -38,10 +38,12 @@ nav-menu: true
 <body>
 	<center>
 		<h3>Drop by for a coffee or write to us on social media or via email.</h3>
-
+		<br>
 		<!-- Add font awesome icons -->
 		<a href="https://www.linkedin.com/in/mi-steinbach-54968a254" class="fa fa-linkedin"></a>
+		<br>
 		<a href="https://instagram.com/earth_cut.film" class="fa fa-instagram"></a>
+		<br>
   		<a href="mailto:info@earth-cut.de" class="fa fa-envelope"></a>
 	</center>
 </body>
