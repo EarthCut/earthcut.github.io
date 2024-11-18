@@ -41,11 +41,8 @@ input[type=submit]:hover {
    </style>
 </head>
 
-Instagram: https://instagram.com/earth_cut.film
-LinkedIn: https://www.linkedin.com/in/mi-steinbach-54968a254
-  
 <div class="container">
-  <form action="action_page.php">
+  <form "mailto:info@earth-cut.de" method="GET">
 
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
@@ -55,8 +52,6 @@ LinkedIn: https://www.linkedin.com/in/mi-steinbach-54968a254
 
     <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
     <input type="submit" value="Submit">
-
-  </form>
+</form>
 </div> 
