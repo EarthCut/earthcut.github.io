@@ -5,52 +5,58 @@ image: assets/images/Mäusebussard.jpg
 description: Find us on social media or get in contact.
 nav-menu: true
 ---
+<!DOCTYPE html>
+<html>
 
 <head>
-    <style> 
- /* Style inputs with type="text", select elements and textareas */
-input[type=text], select, textarea {
-  width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
-  border: 1px solid #ccc; /* Gray border */
-  border-radius: 4px; /* Rounded borders */
-  box-sizing: border-box; /* Make sure that padding and width stays in place */
-  margin-top: 6px; /* Add a top margin */
-  margin-bottom: 16px; /* Bottom margin */
-  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
-}
-/* Style the submit button with a specific background color etc */
-input[type=submit] {
-  background-color: #04AA6D;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-/* When moving the mouse over the submit button, add a darker green color */
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-/* Add a background color and some padding around the form */
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-} 
-   </style>
+	<meta name="viewport" content=
+		"width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+	<style>
+		.fa:hover {
+			opacity: 0.9;
+		}
+
+		.fa-linkedin {
+			background: #007bb5;
+			color: white;
+		}
+
+		.fa-pinterest {
+			background: #cb2027;
+			color: white;
+		}
+
+		.fa-reddit {
+			background: #ff5700;
+			color: white;
+		}
+
+		.fa {
+			padding: 20px;
+			font-size: 40px;
+			width: 60px;
+			text-decoration: none;
+			margin: 5px 80px;
+		}
+
+		h1 {
+			color: green;
+		}
+	</style>
 </head>
 
-<div class="container">
-  <form action="mailto:info@earth-cut.de" method="GET">
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+<body>
+	<center>
+		<h1>Earth Cut</h1>
+		<h3>Social Media</h3>
 
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+		<!-- Add font awesome icons -->
+		<a href="#" class="fa fa-linkedin"></a>
+		<a href="#" class="fa fa-instagram"></a>
+	</center>
+</body>
 
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-    <input type="submit" value="Submit">
-</form>
-</div> 
+</html>
