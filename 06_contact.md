@@ -54,9 +54,8 @@ nav-menu: true
 		<h3>Social Media</h3>
 
 		<!-- Add font awesome icons -->
-		<a href="#" class="fa fa-linkedin"></a>
-		<a href="#" class="fa fa-instagram"></a>
+		<a href="https://www.linkedin.com/in/mi-steinbach-54968a254" class="fa fa-linkedin"></a>
+		<a href="https://instagram.com/earth_cut.film" class="fa fa-instagram"></a>
 	</center>
 </body>
-
 </html>
