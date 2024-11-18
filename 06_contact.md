@@ -23,13 +23,8 @@ nav-menu: true
 			color: white;
 		}
 
-		.fa-pinterest {
+		.fa-instagram {
 			background: #cb2027;
-			color: white;
-		}
-
-		.fa-reddit {
-			background: #ff5700;
 			color: white;
 		}
 
@@ -39,10 +34,6 @@ nav-menu: true
 			width: 60px;
 			text-decoration: none;
 			margin: 5px 80px;
-		}
-
-		h1 {
-			color: green;
 		}
 	</style>
 </head>
