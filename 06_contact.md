@@ -13,6 +13,7 @@ nav-menu: true
 "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
 	<style>
+ <div id="main" class="alt" style="background-color: #192b0fbd">
 		.fa:hover {
 			opacity: 0.9;
 		}
