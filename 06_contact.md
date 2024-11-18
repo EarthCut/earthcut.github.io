@@ -38,12 +38,12 @@ nav-menu: true
 <body>
 	<center>
 		<br>
-		<h3>Drop by for a coffee or write to us on social media or via email.</h3>
+		<h2>Drop by for a coffee or write to us on social media or via email.</h2>
 		<br>
-		 <address>
+		 <address><h3>
 			Visit us at:<br>
 			Koblenzer Str. 11, 50968 Cologne<br>
-			Germany
+			Germany</h3>
 			</address> 
 		<br>
 		<!-- Add font awesome icons -->
