@@ -5,8 +5,6 @@ image: assets/images/Mäusebussard.jpg
 description: Find us on social media or get in contact.
 nav-menu: true
 ---
-<!DOCTYPE html>
-<html>
 
 <head>
 	<meta name="viewport" content=
@@ -58,4 +56,3 @@ nav-menu: true
 		<a href="https://instagram.com/earth_cut.film" class="fa fa-instagram"></a>
 	</center>
 </body>
-</html>
