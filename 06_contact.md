@@ -42,7 +42,6 @@ nav-menu: true
 		<!-- Add font awesome icons -->
 		<a href="https://www.linkedin.com/in/mi-steinbach-54968a254" class="fa fa-linkedin"></a>
 		<a href="https://instagram.com/earth_cut.film" class="fa fa-instagram"></a>
-  		<a href="info@earth-cut.de" class="fa fa-envelope"></a>
-    <a href="info@earth-cut.de" class="fa-solid fa-envelope"></a>
+  		<a href="mailto:info@earth-cut.de" class="fa fa-envelope"></a>
 	</center>
 </body>
