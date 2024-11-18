@@ -16,21 +16,21 @@ nav-menu: true
 		.fa:hover {
 			opacity: 0.9;
 		}
-
 		.fa-linkedin {
 			color: white;
 		}
-
 		.fa-instagram {
 			color: white;
 		}
-
+  		.fa-envelope {
+			color: white;
+		}
 		.fa {
 			padding: 20px;
 			font-size: 40px;
 			width: 40px;
 			text-decoration: none;
-			margin: 5px 80px;
+			margin: 5px 40px;
 		}
 	</style>
 </head>
