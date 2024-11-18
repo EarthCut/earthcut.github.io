@@ -42,8 +42,7 @@ input[type=submit]:hover {
 </head>
 
 <div class="container">
-  <form "mailto:info@earth-cut.de" method="GET">
-
+  <form action="mailto:info@earth-cut.de" method="GET">
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
