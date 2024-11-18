@@ -5,7 +5,7 @@ image: assets/images/Mäusebussard.jpg
 description: Find us on social media or get in contact.
 nav-menu: true
 ---
-
+ <div id="main" class="alt" style="background-color: #192b0fbd">
 <head>
 	<meta name="viewport" content=
 		"width=device-width, initial-scale=1" />
@@ -13,7 +13,6 @@ nav-menu: true
 "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
 	<style>
- <div id="main" class="alt" style="background-color: #192b0fbd">
 		.fa:hover {
 			opacity: 0.9;
 		}
