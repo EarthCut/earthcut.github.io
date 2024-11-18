@@ -36,6 +36,12 @@ nav-menu: true
 </head>
 
 <body>
+	 <address>
+Visit us at:<br>
+Koblenzer Str. 11, 50968 Cologne<br>
+Germany
+</address> 
+	
 	<center>
 		<h3>Drop by for a coffee or write to us on social media or via email.</h3>
 		<br>
