@@ -31,7 +31,7 @@ nav-menu: true
 		.fa {
 			padding: 20px;
 			font-size: 40px;
-			width: 60px;
+			width: 40px;
 			text-decoration: none;
 			margin: 5px 80px;
 		}
@@ -40,8 +40,7 @@ nav-menu: true
 
 <body>
 	<center>
-		<h1>Earth Cut</h1>
-		<h3>Social Media</h3>
+		<h3>Drop by for a coffee or write to us on social media or via email.</h3>
 
 		<!-- Add font awesome icons -->
 		<a href="https://www.linkedin.com/in/mi-steinbach-54968a254" class="fa fa-linkedin"></a>
