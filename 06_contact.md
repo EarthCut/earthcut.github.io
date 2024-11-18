@@ -19,12 +19,10 @@ nav-menu: true
 		}
 
 		.fa-linkedin {
-			background: #007bb5;
 			color: white;
 		}
 
 		.fa-instagram {
-			background: #fdf497;
 			color: white;
 		}
 
