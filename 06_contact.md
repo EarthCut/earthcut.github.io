@@ -24,7 +24,7 @@ nav-menu: true
 		}
 
 		.fa-instagram {
-			background: #cb2027;
+			background: #fdf497;
 			color: white;
 		}
 
