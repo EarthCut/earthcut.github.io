@@ -36,14 +36,15 @@ nav-menu: true
 </head>
 
 <body>
-	 <address>
-Visit us at:<br>
-Koblenzer Str. 11, 50968 Cologne<br>
-Germany
-</address> 
-	
 	<center>
+		<br>
 		<h3>Drop by for a coffee or write to us on social media or via email.</h3>
+		<br>
+		 <address>
+			Visit us at:<br>
+			Koblenzer Str. 11, 50968 Cologne<br>
+			Germany
+			</address> 
 		<br>
 		<!-- Add font awesome icons -->
 		<a href="https://www.linkedin.com/in/mi-steinbach-54968a254" class="fa fa-linkedin"></a>
