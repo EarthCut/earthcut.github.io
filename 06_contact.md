@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: assets/images/Mäusebussard.jpg
+image: assets/images/contact_treppe.jpg
 description: Find us on social media or get in contact.
 nav-menu: true
 ---
