@@ -38,7 +38,8 @@ nav-menu: true
 <body>
 	<center>
 		<br>
-		<h2>Drop by for a coffee or write to us on social media or via email.</h2>
+		<h1>Drop by for a coffee...<br>
+		or write to us on social media or via email.</h1>
 		<br>
 		 <address><h3>
 			Visit us at:<br>
